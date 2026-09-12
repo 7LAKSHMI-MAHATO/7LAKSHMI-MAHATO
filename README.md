@@ -59,11 +59,13 @@ A web application that generates QR codes from user-provided text.
 
 ## 📊 GitHub Stats
 
-![Lakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=7LAKSHMI-MAHATO&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7LAKSHMI-MAHATO&show_icons=true&theme=tokyonight&hide_border=true" alt="Lakshmi's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7LAKSHMI-MAHATO&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7LAKSHMI-MAHATO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🌐 Connect With Me
 
