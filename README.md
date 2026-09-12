@@ -1,74 +1,81 @@
 # Hi 👋, I'm Lakshmi Mahato
 
-### Full Stack Developer | AI/ML Enthusiast | Problem Solver
+### BTech CSE Student | Full Stack Developer | AI & DSA Enthusiast
+
+I'm a Computer Science Engineering student passionate about building web applications, learning new technologies, and solving programming problems.
+
+- 🎓 BTech final-year in Computer Science & Engineering
+- 💻 Interested in Full Stack Web Development
+- 🤖 Exploring AI, RAG & Machine Learning
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Building real-world projects with modern technologies
+- 📚 Always learning and improving my skills
 
 ---
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Final Year Computer Science student
-- 💻 Interested in Full Stack Development
-- 🤖 Exploring AI/ML and RAG systems
-- 🧩 Passionate about problem solving and DSA
-- 🚀 Building real-world projects
-
----
-
-
-
-
-
-
 
 ## 🛠️ Tech Stack
 
 ### Languages
-Java • Python • JavaScript • C • SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
-React.js • HTML • CSS • JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend
-Node.js • Express.js • REST-API
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Databases
-MongoDB 
+### AI & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### AI / ML
-Machine Learning • RAG • Embeddings • Vector Search
+---
 
-### Tools
-Git • GitHub • VS Code • Postman
+## 🚀 Featured Projects
+
+### 📱 SocialSpheer-Full Stack Social Media 
+A full-stack Instagram-like application where users can create posts, upload images, like posts, comment, edit captions and manage their own content.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • ImageKit
+
+### 🤖 RAG-based Document Question Answering System
+A document question-answering system using Retrieval-Augmented Generation and MongoDB Atlas Vector Search to retrieve relevant information from documents.
+
+**Tech:** Python • FastAPI • Sentence Transformers • MongoDB Atlas Vector Search
+
+### 🔳 Text to QR Code Generator
+A web application that generates QR codes from user-provided text.
+
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- GitHub stats here -->
+![Lakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=7LAKSHMI-MAHATO&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7LAKSHMI-MAHATO&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 Contribution Streak
+## 🌐 Connect With Me
 
-<!-- Streak widget here -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-mahato-0377932b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7LAKSHMI-MAHATO)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmimahato2006@gmail.com)
 
 ---
 
-## 📈 GitHub Activity
+### 💡 "Keep learning, keep building, keep improving."
 
-<!-- Activity widget here -->
-
-<!--
-**7LAKSHMI-MAHATO/7LAKSHMI-MAHATO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
