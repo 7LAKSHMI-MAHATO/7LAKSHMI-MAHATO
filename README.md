@@ -67,6 +67,8 @@ A web application that generates QR codes from user-provided text.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7LAKSHMI-MAHATO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-mahato-0377932b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
