@@ -58,11 +58,9 @@ A web application that generates QR codes from user-provided text.
 ---
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://vercel.app" alt="Lakshmi's GitHub Stats" height="150" />
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="150" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=7LAKSHMI-MAHATO&theme=tokyonight&hide_border=true" />
 </p>
-
 
 
 
