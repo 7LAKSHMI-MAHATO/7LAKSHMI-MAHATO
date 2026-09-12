@@ -14,21 +14,9 @@
 
 ---
 
-## 🤝 Connect With Me
-
-p>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://www.linkedin.com/in/lakshmi-mahato-0377932b5?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-</a>
-
-<a href="YOUR_GITHUB_URL">
-  <img src="https://github.com/7LAKSHMI-MAHATO">
-</a>
 
 
 
-
-</p>
 
 
 
