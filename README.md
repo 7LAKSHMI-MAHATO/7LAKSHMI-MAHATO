@@ -57,13 +57,9 @@ A web application that generates QR codes from user-provided text.
 
 ---
 
-## 📊 GitHub Stats
+![Lakshmi's GitHub Stats](https://herokuapp.com)
 
-![Lakshmi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=7LAKSHMI-MAHATO&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=7LAKSHMI-MAHATO&layout=compact&theme=tokyonight)
-
-
+![Lakshmi's Profile Summary](https://vercel.app)
 
 
 
